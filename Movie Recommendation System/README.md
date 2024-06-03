@@ -1,6 +1,6 @@
 # Movie Recommendation System using streamlit
 
-### Dataset link : [link text](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+### Dataset link : [TMDM movie dataset(kaggle)](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
 - steps:
 
