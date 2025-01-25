@@ -17,5 +17,3 @@
 - merging all necessary columns to one column named Tags by removing unnecessary datas in each field.
 - finding all pair common words and then finding their common distance using cosine vector
 - for one movie id ,showing the nearest five movie id's as recommendation.
-
-<b>credits: CampusX youtube video(i tried it by my own)</b>
